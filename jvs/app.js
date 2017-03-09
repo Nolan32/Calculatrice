@@ -14,4 +14,10 @@ function multiplier(e, f){
 return e * f;
 
 }
-console.log(multiplier(2, 2))
+console.log(multiplier(2, 2));
+
+
+function division (g, h){
+	return g / h
+}
+console.log(division(4, 2));
