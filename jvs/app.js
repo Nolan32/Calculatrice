@@ -8,3 +8,10 @@ function soustraire(c, d){
 return c - d;
 }
 console.log(soustraire(21, 22));
+
+
+function multiplier(e, f){
+return e * f;
+
+}
+console.log(multiplier(2, 2))
