@@ -17,7 +17,16 @@ return e * f;
 console.log(multiplier(2, 2));
 
 
-function division (g, h){
-	return g / h
+var numberA= 12;
+var numberB=13
+
+function division(numberA, numberB){
+return numberA / numberB
+}	
+if (numberA > 0) {
+	console.log(division(21, 13));
 }
-console.log(division(4, 2));
+else{(numberB < 0)
+	console.log("n'est pas divisible par 0")
+
+}
